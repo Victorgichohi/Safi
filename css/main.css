@@ -30,7 +30,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 */
 .banner{
-  height: 80vh;
+  height: 90vh;
   width: 100%;
   position: relative; 
 }
@@ -38,20 +38,62 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   position: absolute;
 }
 .one{
-  height: 80vh;
+  height: 90vh;
   width: 100%;
-  background-image: url(../assets/images/fashion2.jpeg);
+  background-image: url(../assets/images/fashion1.jpg);
   background-size: cover;
 }
 .two{
-  height: 80vh;
+  height: 90vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion2.jpg);
+  background-size: cover;
+}
+.three{
+  height: 90vh;
   width: 100%;
   background-image: url(../assets/images/fashion3.jpg);
   background-size: cover;
 }
-.three{
-  height: 80vh;
+.four{
+  height: 90vh;
   width: 100%;
-  background-image: url(../assets/images/fashion5.jpeg);
+  background-image: url(../assets/images/fashion4.jpg);
+  background-size: cover;
+}
+.five{
+  height: 90vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion5.jpg);
+  background-size: cover;
+}
+.six{
+  height: 90vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion6.jpg);
+  background-size: cover;
+}
+.seven{
+  height: 90vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion7.jpg);
+  background-size: cover;
+}
+.eight{
+  height: 90vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion8.jpg);
+  background-size: cover;
+}
+.nine{
+  height: 90vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion9.jpg);
+  background-size: cover;
+}
+.ten{
+  height: 90vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion10.jpg);
   background-size: cover;
 }
