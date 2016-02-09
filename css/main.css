@@ -24,3 +24,34 @@ body{
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block;
 }
+
+
+/*banner styling
+
+*/
+.banner{
+  height: 80vh;
+  width: 100%;
+  position: relative; 
+}
+.banner > div{
+  position: absolute;
+}
+.one{
+  height: 80vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion2.jpeg);
+  background-size: cover;
+}
+.two{
+  height: 80vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion3.jpg);
+  background-size: cover;
+}
+.three{
+  height: 80vh;
+  width: 100%;
+  background-image: url(../assets/images/fashion5.jpeg);
+  background-size: cover;
+}
