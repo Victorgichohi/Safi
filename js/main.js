@@ -1,10 +1,13 @@
-$(".banner > div:gt(0)").hide();
+$(".slideshow > div:gt(0)").hide();
 
 setInterval(function() { 
-  $('.banner> div:first')
+  $('.slideshow> div:first')
     .fadeOut(5000)
     .next()
     .fadeIn(5000)
     .end()
-    .appendTo('.banner');
+    .appendTo('.slideshow');
 },  7000);
+
+ $(".button-collapse").sideNav();
+        
